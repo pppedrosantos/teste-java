@@ -5,7 +5,8 @@
 
 ### Composição
 
-- [x] Cadastro de usuário
-- [x] Testes Unitário
-- [x] Cadastro de produtos
+- [x] Serviço IMC funcinando
+- [x] Testes Unitários
+- [x] Classes de Acordo com o escopo
+- [x] Classe Main para fins de apresentação
 
