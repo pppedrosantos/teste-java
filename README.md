@@ -5,7 +5,7 @@
 
 ### Tecnologias
 
-data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+![Uploading images (1).png…]()
 
 ### Composição
 
