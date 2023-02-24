@@ -5,8 +5,6 @@
 
 ### Tecnologias
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" width="350" title="hover text">
-  <img src="(https://cdn-icons-png.flaticon.com/512/3291/3291669.png)" width="350" alt="accessibility text">
   ![Screenshot](https://cdn-icons-png.flaticon.com/512/3291/3291669.png)
 </p>
 
