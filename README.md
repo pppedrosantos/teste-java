@@ -14,4 +14,5 @@ data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw
 - [x] Classes de Acordo com o escopo
 - [x] Classe Main para fins de apresentação
 - [x] Diagrama de Classes 
+- [x] Java Swagger
 
