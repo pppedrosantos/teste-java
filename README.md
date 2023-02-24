@@ -5,7 +5,7 @@
 
 ### Tecnologias
 <p align="center">
-  ![Screenshot]([https://cdn-icons-png.flaticon.com/512/3291/3291669.pn](https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png))
+  ![Screenshot]([screenshot.png](https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png))
 </p>
 
 ### Composição
