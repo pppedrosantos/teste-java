@@ -9,4 +9,5 @@
 - [x] Testes Unitários
 - [x] Classes de Acordo com o escopo
 - [x] Classe Main para fins de apresentação
+- [x] Diagrama de Classes 
 
